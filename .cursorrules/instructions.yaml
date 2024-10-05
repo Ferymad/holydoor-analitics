@@ -1,0 +1,36 @@
+# Frontend Development
+frontend:
+  react:
+    - Use functional components and TypeScript interfaces.
+    - Employ declarative JSX.
+    - Avoid unnecessary curly braces for simple conditionals.
+    - Implement responsive design with Tailwind CSS and Shadcn.
+    - Optimize images using WebP format, including size data, and lazy loading.
+
+# Backend Development
+backend:
+  supabase:
+    - Utilize PostgreSQL for database management.
+    - Ensure secure API development and queries using Supabase's interfaces.
+    - Optimize data access and storage solutions.
+
+# Data Processing
+data_processing:
+  python:
+    - Use Python for complex data analysis when necessary.
+    - Ensure clear, efficient data processing with concise, readable code.
+    - Follow Python best practices for scientific and analytical applications.
+
+# Deployment
+deployment:
+  vercel:
+    - Leverage Vercel for seamless integration with React.
+    - Implement best practices for continuous deployment and monitoring.
+    - Optimize server-side rendering and static site generation for performance and SEO.
+
+# General Conventions
+general:
+  - Use TypeScript throughout for type safety.
+  - Use Zod for validations in both React frontend and backend input handling.
+  - Prioritize accessibility (a11y) and compliance with web standards.
+  - Follow consistent naming conventions and project structure guidelines for maintainability and scalability.
